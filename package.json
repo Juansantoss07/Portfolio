@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "sass": "^1.49.9",
+    "scrollreveal": "^4.0.9",
     "vue": "^3.2.31"
   },
   "devDependencies": {
