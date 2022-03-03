@@ -1,0 +1,45 @@
+<script>
+export default {
+    name:"About"
+}
+</script>
+
+<template>
+    <div class="content-about">
+        <div class="title">
+            <h2 class="subtitle">About</h2>
+        </div>
+        <div class="box-about">
+            <div class="about-img">
+                <img src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="">
+            </div>
+            <div class="info-about">
+                <div class="cards">
+                    <div class="card">
+                        <i class="bi bi-people-fill"></i>
+                        <h1>Experiência</h1>
+                        <p>2+ anos</p>
+                    </div>
+                    <div class="card">
+                        <i class="bi bi-people-fill"></i>
+                        <h1>Clientes</h1>
+                        <p>20+ Clientes</p>
+                    </div>
+                    <div class="card">
+                        <i class="bi bi-journal-code"></i>
+                        <h1>Projetos</h1>
+                        <p>30+ Projetos</p>
+                    </div>
+                </div>
+                <div class="text">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima delectus quae neque et similique inventore, voluptate earum corrupti quasi blanditiis libero nobis voluptatum a cupiditate ex sit provident illum magnam?
+                </div>
+                <button class="btn-cont">
+                    Contato
+                </button>
+            </div>
+        </div>
+    </div>
+</template>
+
+<style lang="scss" src="./style.scss" scoped/>
