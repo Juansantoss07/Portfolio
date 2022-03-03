@@ -10,11 +10,13 @@ ScrollReveal({
     delay: 400
 });
 
-ScrollReveal().reveal('.about-img', {delay:400, origin:'left'});
-ScrollReveal().reveal('.info-about', {delay:400, origin:'right'});
+{ mobile: true }
+
+ScrollReveal().reveal('.about-img', {delay:400, origin:'left', mobile: false});
+ScrollReveal().reveal('.info-about', {delay:400, origin:'right', mobile: false});
 ScrollReveal().reveal('.content-header', {delay:400, origin:'top'});
-ScrollReveal().reveal('.sociais-links', {delay:200, origin:'left'});
+ScrollReveal().reveal('.sociais-links', {delay:200, origin:'left',mobile: false});
 ScrollReveal().reveal('.profile-img', {delay:200});
-ScrollReveal().reveal('.info', {delay:400, origin:'right'});
+ScrollReveal().reveal('.info', {delay:400, origin:'right',mobile: false});
 ScrollReveal().reveal('.nav-links', {delay:100, origin:'bottom'});
 
