@@ -3,13 +3,15 @@
   import Profile from "./components/Profile/Profile.vue"
   import Nav from "./components/Nav/Nav.vue"
   import About from "./components/About/About.vue"
+  import MySkills from "./components/MySkills/MySkills.vue"
 
   export default{
     components:{
       Header,
       Profile,
       Nav,
-      About
+      About,
+      MySkills
     }
   }
 </script>
@@ -19,6 +21,7 @@
     <Profile/>
     <Nav/>
     <About/>
+    <MySkills/>
 </template>
 
 <style lang="scss">
@@ -41,6 +44,7 @@
   .subtitle{
     font-size: 28px;
     color: rgb(72, 136, 255);
+    padding: 1rem 0;
   }
 
           .btn-cont{
