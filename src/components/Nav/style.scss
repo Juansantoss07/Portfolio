@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    z-index: 999;
+    margin-bottom: 1rem;
+}
+
+.nav-links{
+    background-color: rgba(214, 214, 214, 0.199);
+    backdrop-filter: blur(12px);
+    padding: 2rem 0;
+    border-radius:30px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    a{
+        padding: 0 1rem;
+        
+        i{
+            background-color: #1d1f3a;
+            color: #fff;
+            padding: 1rem;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        i:hover{
+            background-color: #313463;
+        }
+    }
+}

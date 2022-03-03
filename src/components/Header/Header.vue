@@ -1,0 +1,21 @@
+<script>
+
+import BtnHeader from "./BtnHeader.vue"
+export default {
+    name:"Header",
+    components:{
+        BtnHeader
+    }
+}
+</script>
+
+<template>
+    <div class="content-header">
+        <p>Hello, I'am</p>
+        <h1>Juan Santos</h1>
+        <p>FrontEnd Developer</p>
+             <BtnHeader/>
+    </div>
+</template>
+
+<style lang="sass" src="./style.scss" scoped/>
