@@ -19,4 +19,5 @@ ScrollReveal().reveal('.sociais-links', {delay:200, origin:'left',mobile: false}
 ScrollReveal().reveal('.profile-img', {delay:200});
 ScrollReveal().reveal('.info', {delay:400, origin:'right',mobile: false});
 ScrollReveal().reveal('.nav-links', {delay:100, origin:'bottom'});
+ScrollReveal().reveal('.box-myskills', {delay:100, origin:'bottom'});
 

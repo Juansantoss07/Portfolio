@@ -1,3 +1,72 @@
 .content-myskills{
-    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 4rem;
+
+    .box-myskills{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+
+        .card{
+            width: 40%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #382961;
+            border-radius: 20px;
+            padding: 1rem;
+
+            .list{
+                display: flex;
+                flex-direction: row;
+                align-items: flex-start;
+                width: 100%;
+                justify-content: space-around;
+            }
+
+            .title-card h1{
+                font-size: 22px;
+                color: rgb(72, 136, 255);
+            }
+
+            h2{
+                color: #fff;
+                margin: 0;
+                font-size: 18px;
+            }
+
+            p{
+                color: #ccc;
+                margin: 0.5rem 0;
+                margin-left: 2rem;
+            }
+
+            .skills{
+                margin: 2rem 0;
+            }
+
+            .name-skills{
+                display:flex;
+
+                i{
+                    margin-right: 1rem;
+                    color: rgb(72, 136, 255);
+                }
+            }
+        }
+    }
+}
+
+@media(max-width:780px){
+    .box-myskills{
+        flex-direction: column;
+
+        .card{
+            width: 100% !important;
+            margin: 1rem 0;
+        }
+    }
 }

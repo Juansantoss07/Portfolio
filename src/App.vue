@@ -4,15 +4,17 @@
   import Nav from "./components/Nav/Nav.vue"
   import About from "./components/About/About.vue"
   import MySkills from "./components/MySkills/MySkills.vue"
+  import MyWorks from "./components/MyWorks/MyWorks.vue"
 
   export default{
     components:{
-      Header,
-      Profile,
-      Nav,
-      About,
-      MySkills
-    }
+    Header,
+    Profile,
+    Nav,
+    About,
+    MySkills,
+    MyWorks,
+}
   }
 </script>
 
@@ -22,6 +24,7 @@
     <Nav/>
     <About/>
     <MySkills/>
+    <MyWorks/>
 </template>
 
 <style lang="scss">
