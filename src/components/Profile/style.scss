@@ -82,3 +82,11 @@
         }
     }
 }
+
+@media(max-width:320px){
+    .sociais-links a,
+    .sociais-links i{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+}

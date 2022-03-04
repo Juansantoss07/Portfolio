@@ -29,6 +29,10 @@
                 justify-content: space-around;
             }
 
+            .list-skills{
+                width: 100%;
+            }
+
             .title-card h1{
                 font-size: 22px;
                 color: rgb(72, 136, 255);
@@ -84,6 +88,7 @@
 
         .list{
             width: 100% !important;
+            flex-direction: column !important;
         }
     }
 }
@@ -91,11 +96,13 @@
 @media(max-width:320px){
     .card{
         border-radius: 0 !important;
+        margin: 0;
+        padding: 1rem 0 !important;
+        width: 70% !important;
     }
 
     
     .content-myskills{
-        padding: 1rem 0rem !important;
+        padding: 1rem 2rem !important;
     }
-
 }
