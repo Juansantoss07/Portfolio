@@ -15,8 +15,9 @@
     About,
     MySkills,
     MyWorks,
-    Footer
+    Footer,
 }
+  
   }
 </script>
 
@@ -39,6 +40,7 @@
     font-family: 'League Spartan', sans-serif;
     background:#1d1f3a;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    scroll-behavior: smooth;
   }
 
   body::-webkit-scrollbar {

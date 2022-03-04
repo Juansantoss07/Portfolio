@@ -1,11 +1,17 @@
 <script>
 export default {
-    name:"About"
+    name:"About",
+
+     methods:{
+        contact(){
+            window.open("https://api.whatsapp.com/send?phone=5511945691430&text=Olá, peguei seu contato através do seu portfólio!", "_blank")
+        }
+    }
 }
 </script>
 
 <template>
-    <div class="content-about">
+    <div id="about" class="content-about">
         <div class="title">
             <h2 class="subtitle">About</h2>
         </div>
@@ -34,7 +40,7 @@ export default {
                 <div class="text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima delectus quae neque et similique inventore, voluptate earum corrupti quasi blanditiis libero nobis voluptatum a cupiditate ex sit provident illum magnam?
                 </div>
-                <button class="btn-cont">
+                <button @click="contact" class="btn-cont">
                     Contato
                 </button>
             </div>

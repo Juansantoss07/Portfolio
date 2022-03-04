@@ -10,7 +10,7 @@ export default {
 </script>
 
 <template>
-    <div class="content-header">
+    <div id="home" class="content-header">
         <p>Hello, I'am</p>
         <h1>Juan Santos</h1>
         <p>FrontEnd Developer</p>

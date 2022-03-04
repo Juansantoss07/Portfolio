@@ -1,6 +1,11 @@
 <script>
 export default {
-    name:"BtnHeader"
+    name:"BtnHeader",
+    methods:{
+        contact(){
+            window.open("https://api.whatsapp.com/send?phone=5511945691430&text=Olá, peguei seu contato através do seu portfólio!", "_blank")
+        }
+    }
 }
 </script>
 
@@ -10,7 +15,7 @@ export default {
             <button class="btn-down">
             Download CV
         </button>
-        <button class="btn-cont">
+        <button @click="contact" class="btn-cont">
             Contato
         </button>
         </div>

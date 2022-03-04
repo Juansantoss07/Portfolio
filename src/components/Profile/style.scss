@@ -43,10 +43,15 @@
             display: flex;
             flex-direction: column;
             height: 100%;
+            cursor: pointer;
 
             p{
                 transform: rotate(-270deg);
             }
+        }
+
+        .sociais-links *:hover{
+            color: aliceblue;
         }
     }
 }
@@ -64,6 +69,10 @@
 
         .sociais-links *{
             padding: 0 1rem !important;
+        }
+
+        .sociais-links *:hover{
+            color: rgb(72, 136, 255) !important;
         }
 
         .info{

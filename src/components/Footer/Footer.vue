@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-    <footer>
+    <footer id="footer">
         <div>
             <p>
                 Site desenvolvido por <a href="#">Juan Santos</a>

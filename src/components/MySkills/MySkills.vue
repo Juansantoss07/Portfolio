@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <div class="content-myskills">
+  <div id="skills" class="content-myskills">
     <div class="title">
       <h1 class="subtitle">My Skills</h1>
     </div>
