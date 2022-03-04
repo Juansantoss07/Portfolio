@@ -5,6 +5,7 @@
   import About from "./components/About/About.vue"
   import MySkills from "./components/MySkills/MySkills.vue"
   import MyWorks from "./components/MyWorks/MyWorks.vue"  
+  import Footer from "./components/Footer/Footer.vue"
 
   export default{
     components:{
@@ -14,6 +15,7 @@
     About,
     MySkills,
     MyWorks,
+    Footer
 }
   }
 </script>
@@ -25,6 +27,7 @@
     <About/>
     <MySkills/>
     <MyWorks/>
+    <Footer/>
 </template>
 
 <style lang="scss">
