@@ -38,6 +38,20 @@
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   }
 
+  body::-webkit-scrollbar {
+  width: 8px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #1d1f3a;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color:#4888ff;    /* color of the scroll thumb */
+  border-radius: 5px;       /* roundness of the scroll thumb */ /* creates padding around scroll thumb */
+}
+
+
   
   .title{
     width: 100%;
