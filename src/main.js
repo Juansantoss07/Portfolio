@@ -19,7 +19,7 @@ ScrollReveal().reveal('.sociais-links', {delay:200, origin:'left',mobile: false}
 ScrollReveal().reveal('.profile-img', {delay:200});
 ScrollReveal().reveal('.info', {delay:400, origin:'right',mobile: false});
 ScrollReveal().reveal('.box-myskills', {delay:100, origin:'bottom'});
-ScrollReveal().reveal('#card1', {delay:100, origin:'top'});
-ScrollReveal().reveal('#card2', {delay:600, origin:'top'});
-ScrollReveal().reveal('#card3', {delay:1100, origin:'top',});
+ScrollReveal().reveal('#card1', {delay:100, origin:'top', mobile:false});
+ScrollReveal().reveal('#card2', {delay:600, origin:'top', mobile:false});
+ScrollReveal().reveal('#card3', {delay:1100, origin:'top', mobile:false});
 
