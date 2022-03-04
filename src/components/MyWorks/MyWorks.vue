@@ -13,7 +13,7 @@ export default {
       <div class="works">
         <div class="work-card">
           <div class="img-work">
-            <img src="../public/img/jcsarquitets.png" alt="" />
+            <img src="https://live.staticflickr.com/65535/51917998368_518c9c01e8_m.jpg" alt="" />
           </div>
           <h1>Projeto JCS Arquitets</h1>
           <div class="btns-work">
@@ -22,7 +22,7 @@ export default {
         </div>
         <div class="work-card">
           <div class="img-work">
-            <img src="/public/img/JaneDoe.png" alt="" />
+            <img src="https://live.staticflickr.com/65535/51917900696_162263359d_m.jpg" alt="" />
           </div>
           <h1>Projeto JaneDoe</h1>
           <div class="btns-work">
@@ -31,7 +31,7 @@ export default {
         </div>
         <div class="work-card">
           <div class="img-work">
-            <img src="/public/img/planetas.png" alt="" />
+            <img src="https://live.staticflickr.com/65535/51918519225_9163df668c_m.jpg" alt="" />
           </div>
           <h1>Projeto one</h1>
           <div class="btns-work">
@@ -43,7 +43,7 @@ export default {
             <div class="works">
         <div class="work-card">
           <div class="img-work">
-            <img src="/public/img/clock.png" alt="" />
+            <img src="https://live.staticflickr.com/65535/51916934877_c42052ca77_m.jpg" alt="" />
           </div>
           <h1>Projeto Clock</h1>
           <div class="btns-work">
@@ -52,7 +52,7 @@ export default {
         </div>
         <div class="work-card">
           <div class="img-work">
-            <img src="/public/img/movi.png" alt="" />
+            <img src="https://live.staticflickr.com/65535/51916934987_8f1048f81b_m.jpg" alt="" />
           </div>
           <h1>Projeto JCS Movi</h1>
           <div class="btns-work">
@@ -61,7 +61,7 @@ export default {
         </div>
         <div class="work-card">
           <div class="img-work">
-            <img src="/public/img/spotifyclone.png" alt="" />
+            <img src="https://live.staticflickr.com/65535/51918228334_b2d10567e4_m.jpg" alt="" />
           </div>
           <h1>Projeto Clone Spotify</h1>
           <div class="btns-work">
