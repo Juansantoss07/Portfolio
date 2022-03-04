@@ -4,7 +4,7 @@
   import Nav from "./components/Nav/Nav.vue"
   import About from "./components/About/About.vue"
   import MySkills from "./components/MySkills/MySkills.vue"
-  import MyWorks from "./components/MyWorks/MyWorks.vue"
+  import MyWorks from "./components/MyWorks/MyWorks.vue"  
 
   export default{
     components:{
@@ -46,7 +46,7 @@
 
   .subtitle{
     font-size: 28px;
-    color: rgb(72, 136, 255);
+    color: #4888ff;
     padding: 1rem 0;
   }
 
