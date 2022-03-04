@@ -4,6 +4,10 @@ export default {
     methods:{
         contact(){
             window.open("https://api.whatsapp.com/send?phone=5511945691430&text=Olá, peguei seu contato através do seu portfólio!", "_blank")
+        },
+
+        nocv(){
+            alert('CV não disponível')
         }
     }
 }
@@ -12,7 +16,7 @@ export default {
 <template>
     <div class="content-btnheader">
         <div class="btns">
-            <button class="btn-down">
+            <button @click="nocv" class="btn-down">
             Download CV
         </button>
         <button @click="contact" class="btn-cont">
