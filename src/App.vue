@@ -35,7 +35,9 @@
     box-sizing: border-box;
     font-family: 'League Spartan', sans-serif;
     background:#1d1f3a;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   }
+
   
   .title{
     width: 100%;
