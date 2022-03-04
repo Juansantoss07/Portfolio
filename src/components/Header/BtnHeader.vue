@@ -7,7 +7,11 @@ export default {
         },
 
         nocv(){
-            alert('CV não disponível')
+            document.getElementById('alert').style.display = 'flex'
+        },
+
+        close(){
+            document.getElementById('alert').style.display = 'none'
         }
     }
 }
@@ -22,6 +26,12 @@ export default {
         <button @click="contact" class="btn-cont">
             Contato
         </button>
+        <div id="alert" class="alert">
+            <p>CV não disponível no momento</p>
+            <button @click="close">
+                Okay
+            </button>
+        </div>
         </div>
     </div>
 </template>

@@ -29,6 +29,44 @@
     align-items: center;
     justify-content: center;
 
+    .alert{
+        width: 50%;
+        position:absolute;
+        z-index: 10000;
+        background-color: #181b50;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+        padding: 4rem 0;
+        top: 0;
+        margin-top: 1rem;
+        transition: 2s;
+        display: none;
+
+        
+        p{
+            font-size: 28px;
+            text-align: center;
+        }
+
+        button{
+            padding: .5rem 1rem;
+            border-radius: 10px;
+            background-color: transparent;
+            border: 1px solid #4888ff;
+            color: #4888ff;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        button:hover{
+            background-color: #4888ff;
+            color: #fff;
+        }
+    }
+
     .btns{
         display: flex;
         width: 100%;
@@ -51,5 +89,11 @@
             box-shadow: 6px 6px 2px rgb(28, 51, 99);
         }
 
+    }
+}
+
+@media(max-width:680px){
+    .alert{
+        width: 80% !important;
     }
 }
