@@ -46,7 +46,7 @@
 
   .subtitle{
     font-size: 28px;
-    color: rgb(72, 136, 255);
+    color: #4888ff;
     padding: 1rem 0;
   }
 
