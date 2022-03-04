@@ -13,7 +13,7 @@ export default {
       <div class="works">
         <div class="work-card">
           <div class="img-work">
-            <img src="./public/img/jcsarquitets.png" alt="" />
+            <img src="../public/img/jcsarquitets.png" alt="" />
           </div>
           <h1>Projeto JCS Arquitets</h1>
           <div class="btns-work">
