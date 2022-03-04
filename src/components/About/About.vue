@@ -38,7 +38,7 @@ export default {
                     </div>
                 </div>
                 <div class="text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima delectus quae neque et similique inventore, voluptate earum corrupti quasi blanditiis libero nobis voluptatum a cupiditate ex sit provident illum magnam?
+                    Apaixonado por programação. Atualmente Trabalho com construção de sites, lojas virtuais e sou Desenvolvedor na empresa TV1. Para ver mais sobre meus trabalhos clique na opção Works ou acesse meu GitHub.
                 </div>
                 <button @click="contact" class="btn-cont">
                     Contato
