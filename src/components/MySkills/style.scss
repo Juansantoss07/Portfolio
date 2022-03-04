@@ -18,6 +18,8 @@
             background-color: #382961;
             border-radius: 20px;
             padding: 1rem;
+            border: 2px solid #382961;
+            transition: .5s;
 
             .list{
                 display: flex;
@@ -57,16 +59,43 @@
                 }
             }
         }
+
+        .card:hover{
+            background-color: transparent;
+        }
     }
 }
 
 @media(max-width:780px){
+
+    .content-myskills{
+        padding: 1rem 2rem !important;
+    }
+
     .box-myskills{
         flex-direction: column;
+        width: 100% !important;
+
 
         .card{
             width: 100% !important;
             margin: 1rem 0;
         }
+
+        .list{
+            width: 100% !important;
+        }
     }
+}
+
+@media(max-width:320px){
+    .card{
+        border-radius: 0 !important;
+    }
+
+    
+    .content-myskills{
+        padding: 1rem 0rem !important;
+    }
+
 }

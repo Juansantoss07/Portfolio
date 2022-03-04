@@ -17,6 +17,11 @@
             width: 100%;
             transform: rotate(-5deg);
             border-radius: 10px;
+            transition: .5s;
+        }
+
+        .about-img img:hover{
+            transform: rotate(5deg);
         }
     }
     
@@ -45,6 +50,7 @@
                 text-align: center;
                 height: 100%;
                 padding: 1rem 0;
+                border: 2px solid #382961;
 
                 i{
                     color: #4888FF;
@@ -64,7 +70,8 @@
             }
 
             .card:hover{
-                background-color: #47337c;
+                background-color: transparent;
+                backdrop-filter: blur(12px);
             }
 
             .card *{

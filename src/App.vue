@@ -72,7 +72,8 @@ body::-webkit-scrollbar-thumb {
             border-radius: 5px;
             border:  1px solid rgb(72, 136, 255);
             background-color: rgb(72, 136, 255);
-            color: #000;
+            color: #111;
+            font-weight: 600;
             cursor: pointer;
             transition: .5s;
         }
