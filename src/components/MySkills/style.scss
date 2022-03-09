@@ -95,6 +95,7 @@
     }
 }
 
+
 @media(max-width:320px){
     .card{
         border-radius: 0 !important;
@@ -106,5 +107,14 @@
     
     .content-myskills{
         padding: 1rem 2rem !important;
+    }
+
+    .list{
+        align-items: center !important;
+        justify-content: center !important;
+    }
+
+    .list-skills, .title-card{
+        padding: 0 2rem;
     }
 }
