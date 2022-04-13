@@ -91,7 +91,7 @@ export default {
               alt=""
             />
           </div>
-          <h1>Projeto Rockseat NTFs</h1>
+          <h1>Projeto Rockseat NTF's</h1>
           <div class="btns-work">
             <a href="https://rocket-nft-s.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar</button>
