@@ -95,6 +95,10 @@
         width: 100% !important;
     }
 
+    .about-img img:hover{
+        transform: rotate(-5deg) !important;
+    }
+
     .cards{
         flex-direction: column;
         width: 100% !important;
@@ -103,6 +107,10 @@
         .card{
             width: 100% !important;
             margin: 1rem 0 !important;
+        }
+
+        .card:hover{
+            background-color: #382961 !important;
         }
     }
 

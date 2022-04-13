@@ -23,7 +23,7 @@
                 border: 2px solid #382961;
                 align-items: flex-start;
                 justify-content: space-around;
-                border-radius: 20px;
+                border-radius: 10px;
                 width: 20%;
                 padding: 1rem;
                 transition: .5s;
@@ -57,7 +57,6 @@
         }
     }
 }
-
 @media(max-width:780px){
     .works{
         flex-direction: column !important;
@@ -70,6 +69,10 @@
             justify-content: center !important;
             text-align: center;
         }
+        .work-card:hover{
+            border: 2px solid #382961 !important;
+        }
     }
+
 
 }

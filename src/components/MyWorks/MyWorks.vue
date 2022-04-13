@@ -42,13 +42,13 @@ export default {
         <div id="card3" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/51918519225_9163df668c_m.jpg"
+              src="https://live.staticflickr.com/65535/52001426735_d3a26ed8c3_b.jpg"
               alt=""
             />
           </div>
-          <h1>Projeto Planetas</h1>
+          <h1>Projeto GamingWeb</h1>
           <div class="btns-work">
-            <a href="http://planets-smoky.vercel.app/" target="_blank">
+            <a href="https://gaming-website-page.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar</button>
             </a>
           </div>
