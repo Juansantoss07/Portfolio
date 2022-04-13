@@ -87,13 +87,13 @@ export default {
         <div id="card3" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/51926091277_500d3387da_m.jpg"
+              src="https://live.staticflickr.com/65535/52003354995_6861f55500_b.jpg"
               alt=""
             />
           </div>
-          <h1>Projeto Restaurant Modern</h1>
+          <h1>Projeto Rockseat NTFs</h1>
           <div class="btns-work">
-            <a href="https://restaurant-modern.vercel.app/" target="_blank">
+            <a href="https://rocket-nft-s.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar</button>
             </a>
           </div>
