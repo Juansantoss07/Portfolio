@@ -100,6 +100,12 @@
         transform: rotate(-5deg) !important;
     }
 
+    .text {
+        text-align: center !important;
+    }
+
+
+
     .cards {
         flex-direction: column;
         width: 100% !important;
@@ -117,5 +123,7 @@
 
     .info-about {
         width: 100% !important;
+        align-items: center !important;
+        justify-content: center !important;
     }
 }
