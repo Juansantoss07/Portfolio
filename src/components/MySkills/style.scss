@@ -1,27 +1,27 @@
-.content-myskills{
+.content-myskills {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 1rem 4rem;
 
-    .box-myskills{
+    .box-myskills {
         width: 100%;
         display: flex;
         align-items: center;
         justify-content: space-evenly;
 
-        .card{
+        .card {
             width: 40%;
             display: flex;
             flex-direction: column;
             align-items: center;
             background-color: #382961;
-            border-radius: 20px;
+            border-radius: 5px;
             padding: 1rem;
             border: 2px solid #382961;
             transition: .5s;
 
-            .list{
+            .list {
                 display: flex;
                 flex-direction: row;
                 align-items: flex-start;
@@ -29,35 +29,36 @@
                 justify-content: space-around;
             }
 
-            .list-skills{
-                width: 100%;
+            .list-skills {
+                width: auto;
+                align-items: center;
             }
 
-            .title-card h1{
+            .title-card h1 {
                 font-size: 22px;
                 color: rgb(72, 136, 255);
             }
 
-            h2{
+            h2 {
                 color: #fff;
                 margin: 0;
                 font-size: 18px;
             }
 
-            p{
+            p {
                 color: #ccc;
                 margin: 0.5rem 0;
                 margin-left: 2rem;
             }
 
-            .skills{
+            .skills {
                 margin: 2rem 0;
             }
 
-            .name-skills{
-                display:flex;
+            .name-skills {
+                display: flex;
 
-                i{
+                i {
                     margin-right: 1rem;
                     color: rgb(72, 136, 255);
                 }
@@ -66,23 +67,23 @@
     }
 }
 
-@media(max-width:780px){
+@media(max-width:780px) {
 
-    .content-myskills{
+    .content-myskills {
         padding: 1rem 2rem !important;
     }
 
-    .box-myskills{
+    .box-myskills {
         flex-direction: column;
         width: 100% !important;
 
 
-        .card{
+        .card {
             width: 100% !important;
             margin: 1rem 0;
         }
 
-        .list{
+        .list {
             width: 100% !important;
             flex-direction: column !important;
             justify-content: center !important;
@@ -91,25 +92,26 @@
     }
 }
 
-@media(max-width:320px){
-    .card{
+@media(max-width:320px) {
+    .card {
         border-radius: 0 !important;
         margin: 0;
         padding: 1rem 0 !important;
         width: 70% !important;
     }
 
-    
-    .content-myskills{
+
+    .content-myskills {
         padding: 1rem 2rem !important;
     }
 
-    .list{
+    .list {
         align-items: center !important;
         justify-content: center !important;
     }
 
-    .list-skills, .title-card{
+    .list-skills,
+    .title-card {
         padding: 0 2rem;
     }
 }

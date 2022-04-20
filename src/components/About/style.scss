@@ -1,50 +1,50 @@
-.content-about{
+.content-about {
     width: 100%;
 
-    .box-about{
+    .box-about {
         display: flex;
         padding: 1rem 2rem;
         align-items: center;
         justify-content: space-evenly;
 
-        .about-img{
+        .about-img {
             width: 35%;
             background-color: #4888FF;
             border-radius: 10px;
         }
 
-        .about-img img{
+        .about-img img {
             width: 100%;
             transform: rotate(-5deg);
             border-radius: 10px;
             transition: .5s;
         }
 
-        .about-img img:hover{
+        .about-img img:hover {
             transform: rotate(5deg);
         }
     }
-    
-    .info-about{
+
+    .info-about {
         width: 45%;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
         justify-content: space-around;
 
-        .cards{
+        .cards {
             width: 100%;
             height: 100%;
             display: flex;
             align-items: center;
             justify-content: space-between;
 
-            .card{
+            .card {
                 background-color: #382961;
                 display: flex;
                 flex-direction: column;
                 justify-content: space-around;
-                border-radius: 10px;
+                border-radius: 5px;
                 width: 30%;
                 align-items: center;
                 text-align: center;
@@ -52,34 +52,34 @@
                 padding: 1rem 0;
                 border: 2px solid #382961;
 
-                i{
+                i {
                     color: #4888FF;
                     font-size: 28px;
                 }
 
-                h1{
+                h1 {
                     width: 100%;
                     color: #fff;
                     font-size: 18px;
                 }
 
-                p{
+                p {
                     width: 100%;
                     color: #ccc;
                 }
             }
 
-            .card:hover{
+            .card:hover {
                 background-color: transparent;
                 backdrop-filter: blur(12px);
             }
 
-            .card *{
+            .card * {
                 margin: 0.5rem 0;
             }
         }
 
-        .text{
+        .text {
             margin: 1rem 0;
             color: #ccc;
             line-height: 1.5rem;
@@ -87,34 +87,35 @@
     }
 }
 
-@media(max-width:780px){
-    .box-about{
+@media(max-width:780px) {
+    .box-about {
         flex-direction: column;
     }
-    .about-img{
+
+    .about-img {
         width: 100% !important;
     }
 
-    .about-img img:hover{
+    .about-img img:hover {
         transform: rotate(-5deg) !important;
     }
 
-    .cards{
+    .cards {
         flex-direction: column;
         width: 100% !important;
         margin-top: 2rem;
 
-        .card{
+        .card {
             width: 100% !important;
             margin: 1rem 0 !important;
         }
 
-        .card:hover{
+        .card:hover {
             background-color: #382961 !important;
         }
     }
 
-    .info-about{
+    .info-about {
         width: 100% !important;
     }
 }

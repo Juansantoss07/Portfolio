@@ -1,4 +1,4 @@
-nav{
+nav {
     display: flex;
     width: 100%;
     justify-content: center;
@@ -9,20 +9,20 @@ nav{
     margin-bottom: 1rem;
 }
 
-.nav-links{
+.nav-links {
     background-color: rgba(214, 214, 214, 0.11);
     backdrop-filter: blur(12px);
     padding: 2rem 0;
-    border-radius:30px;
+    border-radius: 30px;
     width: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
 
-    a{
+    a {
         padding: 0 1rem;
-        
-        i{
+
+        i {
             background-color: #1d1f3a;
             color: #fff;
             padding: 1rem;
@@ -31,36 +31,36 @@ nav{
             font-weight: 600;
         }
 
-        i:hover{
+        i:hover {
             background-color: #313463;
         }
 
-        i:active{
+        i:active {
             padding: 1.3rem;
         }
     }
 }
 
-@media(max-width:600px){
-    nav{
+@media(max-width:600px) {
+    nav {
         margin-bottom: 0;
     }
 
-    .nav-links{
-        border-radius: 30px 30px 0 0;
+    .nav-links {
+        border-radius: 0;
         width: 100%;
     }
 }
 
-@media(max-width:320px){
-    nav{
+@media(max-width:320px) {
+    nav {
         width: 100%;
 
-        .nav-links{
+        .nav-links {
             width: 100% !important;
             justify-content: space-evenly !important;
 
-            a{
+            a {
                 width: 10% !important;
                 padding: 0 !important;
             }
