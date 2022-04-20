@@ -37,6 +37,7 @@
             .title-card h1 {
                 font-size: 22px;
                 color: rgb(72, 136, 255);
+                text-align: center;
             }
 
             h2 {
@@ -84,7 +85,7 @@
         }
 
         .list {
-            width: 100% !important;
+            width: auto !important;
             flex-direction: column !important;
             justify-content: center !important;
             display: block !important;
