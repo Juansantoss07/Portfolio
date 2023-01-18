@@ -7,7 +7,7 @@ export default {
         },
 
         nocv(){
-            window.open("file:///C:/Users/Home/Downloads/Curr%C3%ADculo%20(1).pdf")
+            window.open("file:///C:/Users/Home/Downloads/Curr%C3%ADculo%20(1).pdf" download)
         },
 
         close(){
