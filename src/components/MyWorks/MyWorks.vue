@@ -14,7 +14,7 @@ export default {
         <div id="card1" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/51917998368_518c9c01e8_m.jpg"
+              src="#"
               alt=""
             />
           </div>
@@ -28,7 +28,7 @@ export default {
         <div id="card2" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/51917900696_162263359d_m.jpg"
+              src="#"
               alt=""
             />
           </div>
@@ -42,7 +42,7 @@ export default {
         <div id="card3" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/52001426735_d3a26ed8c3_b.jpg"
+              src="#"
               alt=""
             />
           </div>
@@ -59,7 +59,7 @@ export default {
         <div id="card1" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/51916934877_c42052ca77_m.jpg"
+              src="#"
               alt=""
             />
           </div>
@@ -73,7 +73,7 @@ export default {
         <div id="card2" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/51916934987_8f1048f81b_m.jpg"
+              src="#"
               alt=""
             />
           </div>
@@ -87,7 +87,7 @@ export default {
         <div id="card3" class="work-card">
           <div class="img-work">
             <img
-              src="https://live.staticflickr.com/65535/52003354995_6861f55500_b.jpg"
+              src="#"
               alt=""
             />
           </div>
