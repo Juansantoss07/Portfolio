@@ -7,7 +7,7 @@ export default {
         },
 
         nocv(){
-            document.getElementById('alert').style.display = 'flex'
+            window.open("file:///C:/Users/Home/Downloads/Curr%C3%ADculo%20(1).pdf")
         },
 
         close(){
