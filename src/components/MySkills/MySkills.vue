@@ -66,10 +66,10 @@ export default {
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
-                <h2>Tailwind</h2>
+                <h2>SASS</h2>
               </div>
               <div>
-                <p>Básico</p>
+                <p>Avançado</p>
               </div>
             </div>
           </div>
@@ -87,7 +87,7 @@ export default {
                 <h2>NodeJS</h2>
               </div>
               <div>
-                <p>Básico</p>
+                <p>Estudando</p>
               </div>
             </div>
             <div class="skills">
@@ -105,7 +105,7 @@ export default {
                 <h2>Laravel</h2>
               </div>
               <div>
-                <p>Intermediário</p>
+                <p>Básico</p>
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@ export default {
                 <h2>MySql</h2>
               </div>
               <div>
-                <p>Intermediário</p>
+                <p>Estudando</p>
               </div>
             </div>
             <div class="skills">
