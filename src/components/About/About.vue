@@ -38,7 +38,7 @@ export default {
                     </div>
                 </div>
                 <div class="text">
-                    Apaixonado por programação. Atualmente Trabalho com construção de sites, lojas virtuais e sou Desenvolvedor na empresa TV1. Para ver mais sobre meus trabalhos clique na opção Works ou acesse meu GitHub.
+                    Apaixonado por programação. Atualmente Trabalho com construção de sites, lojas virtuais e fui Desenvolvedor da empresa TV1, trabalhando em projetos para Carrefour, Nestlé, Mobil e plataforma interna. Para ver mais sobre meus trabalhos clique na opção Works ou acesse meu GitHub.
                 </div>
                 <button @click="contact" class="btn-cont">
                     Contato
