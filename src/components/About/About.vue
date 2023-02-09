@@ -13,7 +13,7 @@ export default {
 <template>
     <div id="about" class="content-about">
         <div class="title">
-            <h2 class="subtitle">Sobre</h2>
+            <h2 class="subtitle">About</h2>
         </div>
         <div class="box-about">
             <div class="about-img">
