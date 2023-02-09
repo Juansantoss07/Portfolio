@@ -7,14 +7,15 @@ export default {
 <template>
   <div id="skills" class="content-myskills">
     <div class="title">
-      <h1 class="subtitle">My Skills</h1>
+      <h1 class="subtitle">Minhas habilidades:</h1>
     </div>
     <div class="box-myskills">
       <div class="card">
         <div class="title-card">
-          <h1>Frontend Development</h1>
+          <!-- <h1>Conhecimentos nas linguagens e ferramentas:</h1> -->
         </div>
         <div class="list">
+            <!--Lado  esquerdo do card-->
           <div class="list-skills">
             <div class="skills">
               <div class="name-skills">
@@ -22,7 +23,7 @@ export default {
                 <h2>HTML5</h2>
               </div>
               <div>
-                <p>Avançado</p>
+                <!--<p>Avançado</p>-->
               </div>
             </div>
             <div class="skills">
@@ -31,7 +32,16 @@ export default {
                 <h2>CSS3</h2>
               </div>
               <div>
-                <p>Avançado</p>
+                <!--<p>Avançado</p>-->
+              </div>
+            </div>
+            <div class="skills">
+              <div class="name-skills">
+                  <i class="bi bi-check-circle-fill"></i>
+                <h2>React</h2>
+              </div>
+              <div>
+                <!--<p>Avançado</p>-->
               </div>
             </div>
             <div class="skills">
@@ -40,18 +50,65 @@ export default {
                 <h2>Bootstrap5</h2>
               </div>
               <div>
-                <p>Avançado</p>
+                <!--<p>Avançado</p>-->
+              </div>
+            </div>
+            <div class="skills">
+              <div class="name-skills">
+                  <i class="bi bi-check-circle-fill"></i>
+                <h2>NodeJS</h2>
+              </div>
+              <div>
+                <!--<p>Avançado</p>-->
+              </div>
+            </div>
+            <div class="skills">
+              <div class="name-skills">
+                  <i class="bi bi-check-circle-fill"></i>
+                <h2>EJS</h2>
+              </div>
+              <div>
+                <!--<p>Avançado</p>-->
+              </div>
+            </div>
+            <div class="skills">
+              <div class="name-skills">
+                  <i class="bi bi-check-circle-fill"></i>
+                <h2>MySQL</h2>
+              </div>
+              <div>
+                <!--<p>Avançado</p>-->
               </div>
             </div>
           </div>
+          
+          <!--Lado  direito do card-->
           <div class="list-skills">
+            <div class="skills">
+              <div class="name-skills">
+                  <i class="bi bi-check-circle-fill"></i>
+                <h2>Linux</h2>
+              </div>
+              <div>
+                <!--<p>Avançado</p>-->
+              </div>
+            </div>
+            <div class="skills">
+              <div class="name-skills">
+                  <i class="bi bi-check-circle-fill"></i>
+                <h2>Figma</h2>
+              </div>
+              <div>
+                <!--<p>Avançado</p>-->
+              </div>
+            </div>
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
                 <h2>JavaScript</h2>
               </div>
               <div>
-                <p>Intermediário</p>
+                <!--<p>Intermediário</p>-->
               </div>
             </div>
             <div class="skills">
@@ -60,7 +117,7 @@ export default {
                 <h2>VueJS</h2>
               </div>
               <div>
-                <p>Intermediário</p>
+                <!--<p>Intermediário</p>-->
               </div>
             </div>
             <div class="skills">
@@ -69,66 +126,27 @@ export default {
                 <h2>SASS</h2>
               </div>
               <div>
-                <p>Avançado</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-            <div class="card">
-        <div class="title-card">
-          <h1>Backend Development</h1>
-        </div>
-        <div class="list">
-          <div class="list-skills">
-            <div class="skills">
-              <div class="name-skills">
-                  <i class="bi bi-check-circle-fill"></i>
-                <h2>NodeJS</h2>
-              </div>
-              <div>
-                <p>Estudando</p>
+                <!--<p>Avançado</p>-->
               </div>
             </div>
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
-                <h2>PHP</h2>
+                <h2>Typescript</h2>
               </div>
               <div>
-                <p>Básico</p>
+                <!--<p>Avançado</p>-->
               </div>
             </div>
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
-                <h2>Laravel</h2>
+                <h2>Jquery</h2>
               </div>
               <div>
-                <p>Básico</p>
+                <!--<p>Avançado</p>-->
               </div>
             </div>
-          </div>
-          <div class="list-skills">
-            <div class="skills">
-              <div class="name-skills">
-                  <i class="bi bi-check-circle-fill"></i>
-                <h2>MySql</h2>
-              </div>
-              <div>
-                <p>Estudando</p>
-              </div>
-            </div>
-            <div class="skills">
-              <div class="name-skills">
-                  <i class="bi bi-check-circle-fill"></i>
-                <h2>Python</h2>
-              </div>
-              <div>
-                <p>Estudando</p>
-              </div>
-            </div>
-           
           </div>
         </div>
       </div>

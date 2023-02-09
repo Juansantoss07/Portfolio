@@ -34,11 +34,11 @@ export default {
                     <div class="card">
                         <i class="bi bi-journal-code"></i>
                         <h1>Projetos</h1>
-                        <p>30+ Projetos</p>
+                        <p>40+ Projetos</p>
                     </div>
                 </div>
                 <div class="text">
-                    Apaixonado por programação. Atualmente Trabalho com construção de sites, lojas virtuais e fui Desenvolvedor da empresa TV1, trabalhando em projetos para Carrefour, Nestlé, Mobil e plataforma interna. Para ver mais sobre meus trabalhos clique na opção Works ou acesse meu GitHub.
+                    Apaixonado por programação. Atualmente Trabalho com construção de sites, lojas virtuais e fui Desenvolvedor de Software da empresa TV1, trabalhando em projetos para Heineken, Nubank, Carrefour, Nestlé, Mobil e plataforma interna. Para ver mais sobre meus trabalhos clique na opção Works ou acesse meu GitHub.
                 </div>
                 <button @click="contact" class="btn-cont">
                     Contato

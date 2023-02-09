@@ -27,6 +27,13 @@
                 width: 20%;
                 padding: 1rem;
                 transition: .5s;
+                cursor: pointer;
+
+                .btns-work{
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                }
 
 
                 .img-work {
@@ -40,7 +47,7 @@
 
                 h1,
                 .img-work,
-                .btns-works {
+                .btns-work {
                     width: 100%;
                 }
 
