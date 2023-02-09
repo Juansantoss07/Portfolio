@@ -14,7 +14,7 @@ export default {
         <div id="card1" class="work-card">
           <div class="img-work">
             <img
-              src="public/imgs/JCSArquitets.png"
+              src="/public/imgs/JCSArquitets.png"
               alt=""
             />
           </div>
@@ -31,7 +31,7 @@ export default {
         <div id="card2" class="work-card">
           <div class="img-work">
             <img
-              src="public/imgs/JaneDoe.png"
+              src="/public/imgs/JaneDoe.png"
               alt=""
             />
           </div>
@@ -48,7 +48,7 @@ export default {
         <div id="card3" class="work-card">
           <div class="img-work">
             <img
-              src="public/imgs/Gaming.png"
+              src="/public/imgs/Gaming.png"
               alt=""
             />
           </div>
@@ -68,7 +68,7 @@ export default {
         <div id="card1" class="work-card">
           <div class="img-work">
             <img
-              src="public/imgs/Clock.png"
+              src="/public/imgs/Clock.png"
               alt=""
             />
           </div>
@@ -85,7 +85,7 @@ export default {
         <div id="card2" class="work-card">
           <div class="img-work">
             <img
-              src="public/imgs/Movi.png"
+              src="/public/imgs/Movi.png"
               alt=""
             />
           </div>
@@ -102,7 +102,7 @@ export default {
         <div id="card3" class="work-card">
           <div class="img-work">
             <img
-              src="public/imgs/RocketNFT.png"
+              src="/public/imgs/RocketNFT.png"
               alt=""
             />
           </div>
