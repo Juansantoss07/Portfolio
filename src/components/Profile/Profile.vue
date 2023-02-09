@@ -22,7 +22,7 @@ export default {
                 <img src="https://avatars.githubusercontent.com/u/72050241?v=4" alt="Profile">
             </div>
             <div @click="down" class="info">
-                <p>Scroll Down</p><i class="bi bi-arrow-down-circle-fill"></i>
+                <p>Scroll Down </p><i class="bi bi-arrow-down-circle-fill"></i>
             </div>
         </div>
     </div>
