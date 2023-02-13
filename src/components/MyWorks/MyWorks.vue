@@ -14,16 +14,16 @@ export default {
         <div id="card1" class="work-card">
           <div class="img-work">
             <img
-              src="/public/imgs/JCSArquitets.png"
+              src="/public/imgs/RocketCard.png"
               alt=""
             />
           </div>
-          <h1>Projeto JCS Arquitets</h1>
+          <h1>RocketCard</h1>
           <div class="btns-work">
-            <a href="http://jcs-arquitets.vercel.app/" target="_blank">
+            <a href="https://rocketcard-delta.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar Site</button>
             </a>
-            <a href="https://github.com/Juansantoss07/JCS-Arquitets" target="_blank">
+            <a href="https://github.com/Juansantoss07/rocketcard" target="_blank">
               <button class="btn-cont">Código GitHub</button>
             </a>
           </div>
