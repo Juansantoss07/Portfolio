@@ -48,16 +48,16 @@ export default {
         <div id="card3" class="work-card">
           <div class="img-work">
             <img
-              src="/public/imgs/Gaming.png"
+              src="/public/imgs/RocketFlix.png"
               alt=""
             />
           </div>
-          <h1>Projeto GamingWeb</h1>
+          <h1>RocketFlix</h1>
           <div class="btns-work">
-            <a href="https://gaming-website-page.vercel.app/" target="_blank">
+            <a href="https://rocketflix-beryl.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar Site</button>
             </a>
-            <a href="https://github.com/Juansantoss07/GamingWebsitePage" target="_blank">
+            <a href="https://github.com/Juansantoss07/rocketflix" target="_blank">
               <button class="btn-cont">Código GitHub</button>
             </a>
           </div>
@@ -89,7 +89,7 @@ export default {
               alt=""
             />
           </div>
-          <h1>Projeto JCS Movi</h1>
+          <h1>JCS Movi</h1>
           <div class="btns-work">
             <a href="https://jcs-movi.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar Site</button>
@@ -106,7 +106,7 @@ export default {
               alt=""
             />
           </div>
-          <h1>Projeto Rockseat NTF's</h1>
+          <h1>Rockseat NTF's</h1>
           <div class="btns-work">
             <a href="https://rocket-nft-s.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar Site</button>
