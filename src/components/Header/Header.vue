@@ -13,7 +13,7 @@ export default {
     <div id="home" class="content-header">
         <p>Hello, I'am</p>
         <h1>Juan Santos</h1>
-        <p>FrontEnd Developer and Design UX/Ui</p>
+        <p>Full Stack Developer</p>
              <BtnHeader/>
     </div>
 </template>
