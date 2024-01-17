@@ -84,6 +84,19 @@
             margin: 1rem 0;
             color: #ccc;
             line-height: 1.5rem;
+
+            .link-empresas{
+                color: #4888FF;
+            }
+
+            .link-lojas-moon{
+                color: #fff;
+                text-decoration: none;
+
+                &:hover{
+                    color: #4888FF;
+                }
+            }
         }
     }
 }

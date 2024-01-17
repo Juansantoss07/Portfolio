@@ -24,21 +24,29 @@ export default {
                     <div class="card">
                         <i class="bi bi-people-fill"></i>
                         <h1>Experiência</h1>
-                        <p>2+ anos</p>
+                        <p>3+ anos</p>
                     </div>
                     <div class="card">
                         <i class="bi bi-people-fill"></i>
                         <h1>Clientes</h1>
-                        <p>20+ Clientes</p>
+                        <p>30+ Clientes</p>
                     </div>
                     <div class="card">
                         <i class="bi bi-journal-code"></i>
                         <h1>Projetos</h1>
-                        <p>40+ Projetos</p>
+                        <p>50+ Projetos</p>
                     </div>
                 </div>
                 <div class="text">
-                    Apaixonado por programação. Atualmente Trabalho com construção de sites, lojas virtuais e fui Desenvolvedor de Software da empresa TV1, trabalhando em projetos para Heineken, Nubank, Carrefour, Nestlé, Mobil e plataforma interna. Para ver mais sobre meus trabalhos clique na opção Works ou acesse meu GitHub.
+                    Formado em ADS pela Uninove.🧑‍🎓<br>
+                    Cursando Pós graduação em Engenharia de Software pela Faculdade Metropolitana.🧑‍🎓<br>
+                    Apaixonado por programação, atualmente Trabalho como desenvolvedor full-stack. Minhas linguagens e ferramentas favoritas são JavaScript, VueJS, SASS, PHP e Laravel. Inclusive desenvolvi esse portfólio usando VueJs.
+                    Atuei como Desenvolvedor de Software full-stack na empresa <a class="link-empresas" href="https://www.grupotv1.com.br/" target="_blank">TV1</a>, contribuindo em projetos para grandes clientes como Heineken, Nubank, Carrefour, Nestlé, Mobil, Vivara e Record TV. <br><br>
+                    Atualmente faço parte da Group Moon <a class="link-empresas" href="https://dizycommerce.com.br/" target="_blank">Dizy Commerce</a> onde sou responsável por criar e corrigir funcionalidades na plataforma de e-commerce magento 2. Além disso, sou responsável por realizar a implantação de novas lojas, contribuíndo em projetos de grandes marcas como Mixed, Paula Feber, Mantegazza e Drogasil.<br><br>
+                   
+                    Além dessas Experiências, sou CEO da empresa <a class="link-empresas" href="https://expansex.netlify.app/" target="_blank">ExpanseX</a>, uma empresa de tecnologia especializada na entrega de 3 tipos de plataforma, uma de e-commerce, de portfólio e uma de agendamentos.
+                    <br><br>
+                    Para ver meus trabalhos públicos e pessoais clique na opção Works no menu, ou acesse meu GitHub. 
                 </div>
                 <button @click="contact" class="btn-cont">
                     Contato

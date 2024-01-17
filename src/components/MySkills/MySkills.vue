@@ -53,10 +53,11 @@ export default {
                 <!--<p>Avançado</p>-->
               </div>
             </div>
+
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
-                <h2>NodeJS</h2>
+                <h2>PHP</h2>
               </div>
               <div>
                 <!--<p>Avançado</p>-->
@@ -65,16 +66,7 @@ export default {
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
-                <h2>EJS</h2>
-              </div>
-              <div>
-                <!--<p>Avançado</p>-->
-              </div>
-            </div>
-            <div class="skills">
-              <div class="name-skills">
-                  <i class="bi bi-check-circle-fill"></i>
-                <h2>MySQL</h2>
+                <h2>Magento</h2>
               </div>
               <div>
                 <!--<p>Avançado</p>-->
@@ -93,15 +85,7 @@ export default {
                 <!--<p>Avançado</p>-->
               </div>
             </div>
-            <div class="skills">
-              <div class="name-skills">
-                  <i class="bi bi-check-circle-fill"></i>
-                <h2>Figma</h2>
-              </div>
-              <div>
-                <!--<p>Avançado</p>-->
-              </div>
-            </div>
+
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
@@ -141,7 +125,7 @@ export default {
             <div class="skills">
               <div class="name-skills">
                   <i class="bi bi-check-circle-fill"></i>
-                <h2>Jquery</h2>
+                <h2>Laravel</h2>
               </div>
               <div>
                 <!--<p>Avançado</p>-->

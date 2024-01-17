@@ -7,7 +7,7 @@ export default {
 <template>
   <div id="works" class="content-myworks">
     <div class="title">
-      <h1 class="subtitle">Alguns dos meus trabalhos:</h1>
+      <h1 class="subtitle">Alguns dos meus trabalhos públicos:</h1>
     </div>
     <div class="box-myworks">
       <div class="works">

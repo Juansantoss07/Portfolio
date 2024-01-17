@@ -11,9 +11,9 @@ export default {
 
 <template>
     <div id="home" class="content-header">
-        <p>Hello, I'am</p>
+        <p>Hello, World! Eu sou o</p>
         <h1>Juan Santos</h1>
-        <p>Full Stack Developer</p>
+        <p>Full-Stack Developer</p>
              <BtnHeader/>
     </div>
 </template>
