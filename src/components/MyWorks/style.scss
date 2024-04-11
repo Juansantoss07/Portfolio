@@ -36,10 +36,10 @@
                 }
 
 
-                .img-work {
+                .img-work, .video-work{
                     width: 100%;
 
-                    img {
+                    img, video {
                         width: 100%;
                         border-radius: 0px;
                     }
@@ -60,6 +60,7 @@
 
             .work-card:hover {
                 border: 2px solid #4888ff;
+                transform: scale(1.05);
             }
         }
     }
