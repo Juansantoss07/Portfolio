@@ -72,14 +72,14 @@ export default {
         </div>
         <div id="card2" class="work-card">
           <div class="img-work">
-            <img src="/public/imgs/Movi.png" alt="" />
+            <video src="/public/videos/planetas.mp4" loop autoplay />
           </div>
-          <h1>JCS Movi</h1>
+          <h1>Planetas</h1>
           <div class="btns-work">
-            <a href="https://jcs-movi.vercel.app/" target="_blank">
+            <a href="https://planets-smoky.vercel.app/" target="_blank">
               <button class="btn-cont">Acessar Site</button>
             </a>
-            <a href="https://github.com/Juansantoss07/JcsMovi" target="_blank">
+            <a href="https://github.com/Juansantoss07/Planets" target="_blank">
               <button class="btn-cont">Código GitHub</button>
             </a>
           </div>
@@ -141,6 +141,24 @@ export default {
               <button class="btn-cont">Acessar Site</button>
             </a>
             <a href="https://github.com/Juansantoss07/WeatherApp" target="_blank">
+              <button class="btn-cont">Código GitHub</button>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="works">
+        <div id="card1" class="work-card">
+          <div class="img-work">
+            <img src="/public/imgs/Movi.png" alt="" />
+          </div>
+          <h1>JCS Movi</h1>
+          <div class="btns-work">
+            <a href="https://jcs-movi.vercel.app/" target="_blank">
+              <button class="btn-cont">Acessar Site</button>
+            </a>
+            <a href="https://github.com/Juansantoss07/JcsMovi" target="_blank">
               <button class="btn-cont">Código GitHub</button>
             </a>
           </div>
