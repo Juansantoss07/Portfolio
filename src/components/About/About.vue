@@ -38,13 +38,12 @@ export default {
                     </div>
                 </div>
                 <div class="text">
-                    Formado em ADS pela Uninove.🧑‍🎓<br>
-                    Cursando Pós graduação em Engenharia de Software pela Faculdade Metropolitana.🧑‍🎓<br>
-                    Apaixonado por programação, atualmente Trabalho como desenvolvedor full-stack. Minhas linguagens e ferramentas favoritas são JavaScript, VueJS, SASS, PHP e Laravel. Inclusive desenvolvi esse portfólio usando VueJs.
+                    Pós graduado em Engenharia de Software.🧑‍🎓<br>
+                    Apaixonado por programação, atualmente Trabalho como desenvolvedor full-stack. Minhas linguagens e ferramentas favoritas são JavaScript, VueJS, PHP, Laravel, Python, Django, Magento2, Bagisto. Inclusive desenvolvi esse portfólio usando VueJs.
                     Atuei como Desenvolvedor de Software full-stack na empresa <a class="link-empresas" href="https://www.grupotv1.com.br/" target="_blank">TV1</a>, contribuindo em projetos para grandes clientes como Heineken, Nubank, Carrefour, Nestlé, Mobil, Vivara e Record TV. <br><br>
-                    Atualmente faço parte da Group Moon <a class="link-empresas" href="https://dizycommerce.com.br/" target="_blank">Dizy Commerce</a> onde sou responsável por criar e corrigir funcionalidades na plataforma de e-commerce magento 2. Além disso, sou responsável por realizar a implantação de novas lojas, contribuíndo em projetos de grandes marcas como Mixed, Paula Feber, Mantegazza e Drogasil.<br><br>
+                    Atualmente faço parte da Group Moon <a class="link-empresas" href="https://dizycommerce.com.br/" target="_blank">Dizy Commerce</a> onde sou responsável por criar e corrigir funcionalidades na plataforma de e-commerce magento 2. Atuo também como coordenador de projetos de implantação de novas lojas, tendo contribuído em iniciativas de grandes marcas como Mixed, Paula Ferber, Fillity, Linea e Aluf.<br><br>
                    
-                    Além dessas Experiências, sou CEO da empresa <a class="link-empresas" href="https://expansex.netlify.app/" target="_blank">ExpanseX</a>, uma empresa de tecnologia especializada na entrega de 3 tipos de plataforma, uma de e-commerce, de portfólio e uma de agendamentos.
+                    Além dessas Experiências, sou CEO da <a class="link-empresas" href="https://www.pixelcommerce.com.br/" target="_blank">Pixel</a>, onde desenvolvemos landing-pages, portfólios e ecommerces, além de prestar suporte a sites já existentes, como Eclé, Iris, e o Sapo não lava o Pé.
                     <br><br>
                     Para ver meus trabalhos públicos e pessoais clique na opção Works no menu, ou acesse meu GitHub. 
                 </div>
